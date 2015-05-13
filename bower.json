@@ -1,0 +1,21 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "homepage": "https://github.com/edstros/weatherapp",
+  "authors": [
+    "Edwin Acevedo <edwin.a.acevedo@gmail.com>"
+  ],
+  "description": "weather app",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~3.8.0"
+  }
+}
